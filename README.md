@@ -5,6 +5,8 @@ Brother [P-Touch
 Editor](https://www.brother-usa.com/ptouch/ptouch-label-editor-software)
 potentially useful. The following categories are included: 
 
+* [General inventory](inventory/) - Just general inventory labels, not
+  for any specific system.
 * [Aidetek](aidetek/) - For the SMD storage containers that I use, both
   regular and ESD protecting. 
 * [Bosch-Sortimo](bosch-sortimo/) - This is for the Sortimo-compatible
